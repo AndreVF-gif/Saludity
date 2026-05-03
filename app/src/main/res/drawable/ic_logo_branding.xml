@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Central Wellness Symbol: Heart Outline -->
+    <!-- Fully transparent fill, bold stroke for high visibility in Light/Dark modes -->
+    <path
+        android:strokeColor="#00BFA5"
+        android:strokeWidth="6"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,78
+                  C38,70 28,58 28,42
+                  C28,30 38,24 48,24
+                  C52,24 54,26 54,26
+                  C54,26 56,24 60,24
+                  C70,24 80,30 80,42
+                  C80,58 70,70 54,78 Z" />
+
+    <!-- Energetic Pulse Line (Activity) - "The Bitrate" -->
+    <path
+        android:strokeColor="#00BFA5"
+        android:strokeWidth="9"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M38,46 L45,46 L49,34 L53,56 L58,46 L68,46" />
+
+    <!-- Nutrition Indicator: Leaf Outline -->
+    <path
+        android:strokeColor="#00BFA5"
+        android:strokeWidth="6"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M65,24 C75,18 85,25 85,35 C80,35 70,32 65,24 Z" />
+
+</vector>

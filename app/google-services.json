@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566343879706",
+    "project_id": "saludity-63b10",
+    "storage_bucket": "saludity-63b10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566343879706:android:9dcab6e05035f54238d5a3",
+        "android_client_info": {
+          "package_name": "com.example.saludity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxabO9YbKYlJtnWqvWgOXLywj30KOKa5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

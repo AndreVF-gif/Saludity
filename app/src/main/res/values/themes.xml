@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Saludity" parent="Theme.MaterialComponents.Light" />
+</resources>
